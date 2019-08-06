@@ -9,6 +9,10 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
   research.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
+services:
+- heading: Développement Web
+  icon: "/uploads/2019/08/06/Logomakr_6nlo7c.png"
+  description: 'Nous développons des sites web '
 menu:
   footer:
     identifier: _about
